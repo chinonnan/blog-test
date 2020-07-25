@@ -1,4 +1,4 @@
-#自我介绍
+# 自我介绍
 我叫jhon.titor,我的爱好是
 * 骑自行车
 * 打工
@@ -11,7 +11,7 @@
 3. 嘟嘟噜
 4. 菲利斯喵喵
 
-[我的个人主页]:(http://www.johntitor.com/)
+我的个人主页是[http://www.johntitor.com/]:(http://www.johntitor.com/)
 
 学过的编程语言有`HTML` `CSS` `JavaScript` `C` `C++` `Python`。如下：
 
@@ -22,3 +22,9 @@ function f(){
 
 f()
 ```
+
+请多多指教。
+
+どうぞよろしくお願いいたします。
+
+Please Daidai me。
