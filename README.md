@@ -11,6 +11,8 @@
 3. 嘟嘟噜
 4. 菲利斯喵喵
 
+[我的个人主页]:(http://www.johntitor.com/)
+
 学过的编程语言有`HTML` `CSS` `JavaScript` `C` `C++` `Python`。如下：
 
 ```Javascript
